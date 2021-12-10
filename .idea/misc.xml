@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/proyectos/TheMouseApp/app/src/main/res/layout/home_fragment.xml" value="0.15715579710144928" />
         <entry key="..\:/proyectos/TheMouseApp/app/src/main/res/layout/login_fragment.xml" value="0.2595108695652174" />
+        <entry key="..\:/proyectos/TheMouseApp/app/src/main/res/layout/product_card.xml" value="0.15715579710144928" />
       </map>
     </option>
   </component>
